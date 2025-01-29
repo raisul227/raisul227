@@ -44,8 +44,11 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raisul227/raisul227/output/snake.svg" alt="Snake animation" />
+</div>
 
-
+###
 
 <br clear="both">
 
