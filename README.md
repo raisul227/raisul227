@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/YOUR_USERNAME/raisul227/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <br clear="both">
@@ -99,3 +99,4 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raisul227&theme=react&area=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
+![snake gif](https://github.com/raisul227/raisul227/blob/output/github-contribution-grid-snake.svg)
