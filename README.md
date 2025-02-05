@@ -38,7 +38,7 @@
 
 
 
-<p align="left">I'm Raisul Islam from Bangladesh<br><br>- 🔭 I’m working as Front-end Web Devloper<br>- 📚 I'm currently learning Backend Development<br>- ⚡ In my free time I always to learn new things</p>
+<p align="left">I'm Raisul Islam from Bangladesh<br><br>- 🔭 I’m working as Front-end Web Devloper<br>- 📚 I'm currently learning Backend Development<br>- ⚡ In my free time I always want's to learn new things</p>
 
 
 
